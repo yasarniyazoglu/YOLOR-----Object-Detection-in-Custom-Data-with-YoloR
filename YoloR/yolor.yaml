@@ -1,0 +1,4 @@
+train: /content/data_f1/images/train
+val: /content/data_f1/images/val
+nc: 4
+names: ['Ferrari', 'Mclaren', 'Mercedes', 'Redbull']
