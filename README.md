@@ -1,4 +1,7 @@
-Google Colab Notebook : https://colab.research.google.com/drive/1kApD5DqHmzDNjc4CkHUIpR1jhdKkgsTw?usp=sharing                   
+Google Colab Notebook : https://colab.research.google.com/drive/1kApD5DqHmzDNjc4CkHUIpR1jhdKkgsTw?usp=sharing     
+
+Youtube Video : https://www.youtube.com/watch?v=OcGo10fqmc8&ab_channel=YasarNiyazoglu
+
 # YOLOR
 implementation of paper - [You Only Learn One Representation: Unified Network for Multiple Tasks](https://arxiv.org/abs/2105.04206)
 
